@@ -12,10 +12,12 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListAdapter;
 import android.widget.ListView;
+import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -162,6 +164,16 @@ public class DiscountListActivity extends AppCompatActivity {
         final EditText edtDiscount = dialog.findViewById(R.id.edtdiscount);
         final EditText edtMonth = dialog.findViewById(R.id.edtmonth);
 
+        //final Spinner edtMonth = dialog.findViewById(R.id.spinner);
+
+       /* final Spinner spinner = (Spinner) findViewById(R.id.spinner);
+
+        ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this, R.array.Months, android.R.layout.simple_spinner_item);
+
+        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+
+        spinner.setAdapter(adapter);*/
+
         Button btnDiscountUpdate = dialog.findViewById(R.id.btnDiscontUpdate);
 
 
@@ -182,6 +194,8 @@ public class DiscountListActivity extends AppCompatActivity {
 
             String month = getMonthName(cursor.getInt(3));
             edtMonth.setText(month);
+
+            //edtMonth.setSelection(cursor.getInt(3));
 
             mList.add(new DiscountModel(did, pid, discount, month));
         }
