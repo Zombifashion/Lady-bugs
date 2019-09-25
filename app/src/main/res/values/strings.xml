@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Product discounts</string>
+
+    <string name="Product_Id_validation_massage">Product Id is mandatory</string>
+    <string name="Discount_validation_massage">Discount is mandatory</string>
+    <string name="Product_Name_validation_massage">Product name is mandatory</string>
+    <string name="Price_validation_massage">Price is mandatory</string>
+    <string name="Product_quantitty_validation_massage">Product quantity is mandatory</string>
+</resources>
