@@ -36,6 +36,7 @@
         <activity android:name="com.example.pcplus.adddetails.AddDiscounts" />
         <activity android:name="com.example.pcplus.adddetails.DiscountListActivity" />
         <activity android:name="com.example.pcplus.adddetails.DisplayDiscountProductActivity" />
+        <activity android:name="com.example.pcplus.adddetails.main_product_custActivity" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

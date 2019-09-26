@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\mtrsliit\\AndroidStudioProjects\\DiscountHandling\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Users\\PC PLUS\\AndroidStudioProjects\\ProductAndDiscounts\\Lady-bugs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mtrsliit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ab502c9d9e0ae5404366f35aebae0fd7\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\PC PLUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\939924cdd421e2baf223a84bfd8e73c2\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\mtrsliit\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\3f4774fc364e5b088108d6b52e217bf3\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\PC PLUS\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\7c429e6e811301348c01656e9eead964\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

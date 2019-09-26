@@ -27,6 +27,7 @@
         <activity android:name=".AddDiscounts" />
         <activity android:name=".DiscountListActivity" />
         <activity android:name=".DisplayDiscountProductActivity"></activity>
+        <activity android:name=".main_product_custActivity" />
     </application>
 
 </manifest>

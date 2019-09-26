@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         mEdtQty = findViewById(R.id.edtQty);
         mBtnAdd = findViewById(R.id.btnAdd);
         mBtnList = findViewById(R.id.btnList);
-        //mBtnProduct = findViewById(R.id.btnProduct);
+        mBtnProduct = findViewById(R.id.btnProduct);
         mImageView = findViewById(R.id.imageView);
 
         //for discounts
@@ -158,13 +158,12 @@ public class MainActivity extends AppCompatActivity {
         });
 
         //show product layout list
-        //mBtnProduct.setOnClickListener(new View.OnClickListener() {
-            //@Override
-            //public void onClick(View view) {
-                //start recordlist activity
-                //startActivity(new Intent(MainActivity.this, ProductLayout.class));
-            //}
-       // });
+      mBtnProduct.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this, main_product_custActivity.class));
+            }
+        });
 
 
     }

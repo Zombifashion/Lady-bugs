@@ -1,4 +1,4 @@
-#Tue Sep 24 14:57:27 IST 2019
-base.0=C\:\\Users\\acer\\AndroidStudioProjects\\DiscountDetails\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\28
+#Thu Sep 26 15:13:41 IST 2019
+base.0=C\:\\Users\\PC PLUS\\AndroidStudioProjects\\ProductAndDiscounts\\Lady-bugs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\77
 path.0=classes.dex
 renamed.0=classes.dex

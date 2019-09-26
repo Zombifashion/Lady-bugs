@@ -1,19 +1,13 @@
-#Tue Sep 24 14:57:27 IST 2019
+#Thu Sep 26 15:16:02 IST 2019
+path.3=classes.dex
+path.2=classes.dex
 path.1=classes.dex
 path.0=classes.dex
-renamed.5=classes6.dex
-renamed.4=classes5.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=C\:\\Users\\acer\\AndroidStudioProjects\\DiscountDetails\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\35
-base.4=C\:\\Users\\acer\\AndroidStudioProjects\\DiscountDetails\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\32
-base.3=C\:\\Users\\acer\\AndroidStudioProjects\\DiscountDetails\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\31
-base.2=C\:\\Users\\acer\\AndroidStudioProjects\\DiscountDetails\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\34
-base.1=C\:\\Users\\acer\\AndroidStudioProjects\\DiscountDetails\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\33
-base.0=C\:\\Users\\acer\\AndroidStudioProjects\\DiscountDetails\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\36
-path.5=classes.dex
-path.4=classes.dex
-path.3=classes.dex
-path.2=classes.dex
+base.3=C\:\\Users\\PC PLUS\\AndroidStudioProjects\\ProductAndDiscounts\\Lady-bugs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\83
+base.2=C\:\\Users\\PC PLUS\\AndroidStudioProjects\\ProductAndDiscounts\\Lady-bugs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\81
+base.1=C\:\\Users\\PC PLUS\\AndroidStudioProjects\\ProductAndDiscounts\\Lady-bugs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\82
+base.0=C\:\\Users\\PC PLUS\\AndroidStudioProjects\\ProductAndDiscounts\\Lady-bugs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\80
